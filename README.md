@@ -1,3 +1,3 @@
 # animintstat
 
-* http://members.cbio.mines-paristech.fr/~thocking/WorldBank-facets/ 
+* [WorldBank](http://members.cbio.mines-paristech.fr/~thocking/WorldBank-facets/) [code](examples/worldbank.js)
